@@ -1,4 +1,4 @@
-<x-admin-layout title="Gestión | Pedrini"
+<x-admin-layout title="Gestión | Meditime"
 :breadcrumbs="[
   ['name' => 'Dashboard', 'href' => route('admin.dashboard')],
   ['name' => 'Gestión']

@@ -12,5 +12,5 @@
     ],
     
 ]">
-    Hola, desde admin Pedriini
+    Hola, desde admin Meditime
 </x-admin-layout>

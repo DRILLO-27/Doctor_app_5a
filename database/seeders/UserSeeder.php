@@ -15,8 +15,8 @@ class UserSeeder extends Seeder
     {
         // Crear un usuario de prueba
         User::factory()->create([
-            'name' => 'Pedro',
-            'email' => 'joel.diaz.lopez7@gmail.com',
+            'name' => 'DRILLO',
+            'email' => 'prueba1@gmail.com',
             'password' => bcrypt('12345678'),
             'id_number' => '12345678',
             'phone'=> '555-1234',
